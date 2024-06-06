@@ -11,4 +11,3 @@ This basic web infrastructure operates a website accessible at www.foobar.com, l
 - **Application Server's Role**: The application server is responsible for installing, operating, and hosting applications and services for end-users, IT services, and organizations, playing a vital role in the deployment and delivery of complex applications.
 - **Database Functionality**: The database holds an organized collection of data, ensuring easy access, management, and updates.
 - **Server-Client Communication**: Interaction between the client (user's computer requesting the website) and the server happens over the internet, using the TCP/IP protocol suite.
-s
